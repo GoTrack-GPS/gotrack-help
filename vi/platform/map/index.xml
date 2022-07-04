@@ -24,7 +24,14 @@ Bước 2: Click vào trong hộp thông tin thiết bị. Sau khi click xong, s
 Cài đặt bản đồ #
 Bước 1: Vào .
 Bước 2 : Hộp thoại xuất hiện. Cài đặt, bật / tắt thông tin theo ý muốn.
-Loại bản đồ: Chọn giao diện bản đồ sao cho dễ nhìn. Độ sáng (100%): Chọn độ sáng bản đồ sao cho dễ nhìn. Kênh hiển thị Loại: Chọn loại hiển thị của thiết bị tương ứng cho dễ nhìn và có thể xem trước lại mục Xem trước.</description></item><item><title>Tiện ích</title><link>https://help.gotrack365.com/vi/platform/map/map-widget/</link><pubDate>Sat, 25 Jun 2022 16:55:45 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/map-widget/</guid><description>Tiện ích bản đồ #</description></item><item><title>Corridor</title><link>https://help.gotrack365.com/vi/platform/map/map-corridor/</link><pubDate>Sat, 25 Jun 2022 16:56:03 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/map-corridor/</guid><description>Danh sách corridor trên Bản đồ #
-Tìm kiếm #
-Có thể tìm kiếm theo 1 trong các tiêu chí sau:
-Bước 1: Tên : Nhập 1/ vài từ trong tên đã tạo để tìm kiếm. Click vào icon bộ lọc để lọc theo : Tốc độ giới hạn. Nhập tốc độ để lọc. Bước 2: Click vào / nhấn Enter để tìm kiếm.</description></item></channel></rss>
+Loại bản đồ: Chọn giao diện bản đồ sao cho dễ nhìn. Độ sáng (100%): Chọn độ sáng bản đồ sao cho dễ nhìn. Kênh hiển thị Loại: Chọn loại hiển thị của thiết bị tương ứng cho dễ nhìn và có thể xem trước lại mục Xem trước.</description></item><item><title>Tiện ích</title><link>https://help.gotrack365.com/vi/platform/map/map-widget/</link><pubDate>Sat, 25 Jun 2022 16:55:45 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/map-widget/</guid><description>Tiện ích bản đồ #
+Màu xe #
+Màu của xe tương ứng với các trạng thái ở chú thích .
+Click để hiển thị / ẩn thông tin màu trên bản đồ.
+Quy ước màu trạng thái #
+Khi icon xe hiển thị : Xe đang ở trạng thái tắt máy. Khi icon xe hiển thị : Xe đang dừng.</description></item><item><title>Corridor</title><link>https://help.gotrack365.com/vi/platform/map/map-corridor/</link><pubDate>Sat, 25 Jun 2022 16:56:03 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/map-corridor/</guid><description>Danh sách corridor trên Bản đồ #
+Thêm mới #
+Để thêm mới corridor, thực hiện như sau : #
+Bước 1 : Click vào Tạo mới.
+Bước 2 : Xuất hiện màn hình Thêm corridor :
+Tên : Tên corridor ngắn gọn, dễ hiểu với đường bạn muốn vẽ. Bán kính : Bán kính đường corridor. Tốc độ giới hạn (km/h) : Tốc độ cho phéo tối đa mà xe có thể chạy khi đi qua đoạn đường đó.</description></item></channel></rss>
