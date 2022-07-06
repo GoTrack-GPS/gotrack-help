@@ -28,7 +28,7 @@ Loại bản đồ: Chọn giao diện bản đồ sao cho dễ nhìn. Độ sá
 Màu của xe tương ứng với các trạng thái ở chú thích .
 Click để hiển thị / ẩn thông tin màu trên bản đồ.
 2. Quy ước màu trạng thái #
-Khi icon xe hiển thị : Xe đang ở trạng thái tắt máy. Khi icon xe hiển thị : Xe đang dừng.</description></item><item><title>4.6 Lịch sử lộ trình</title><link>https://help.gotrack365.com/vi/platform/map/route-history/</link><pubDate>Tue, 05 Jul 2022 16:09:30 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/route-history/</guid><description>Lịch sử lộ trình #
+: Xe đang chạy. : Xe đang dừng. : Xe đang dừng nhưng vẫn nổ máy.</description></item><item><title>4.6 Lịch sử lộ trình</title><link>https://help.gotrack365.com/vi/platform/map/route-history/</link><pubDate>Tue, 05 Jul 2022 16:09:30 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/route-history/</guid><description>Lịch sử lộ trình #
 Muốn xem lịch sử lộ trình làm như sau:
 Bước 1: Click vào để xem lịch sử lộ trình của thiết bị. Bước 2: Xem lịch sử lộ trình của thiết bị. Có thể để ẩn / hiện một hoặc nhiều lịch sử lộ trình trên bản đồ. 1. Tìm kiếm #
 Muốn tìm kiếm lịch sử lộ trình thực hiện như sau:</description></item><item><title>4.7 Corridor</title><link>https://help.gotrack365.com/vi/platform/map/corridor/</link><pubDate>Tue, 05 Jul 2022 16:09:57 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/corridor/</guid><description>Corridor #
@@ -42,4 +42,7 @@ Bước 1: Click vào để xem danh sách vùng. Bước 2: Xem danh sách vùn
 Bước 1: Click vào Thêm mới. Bước 2: : Chọn kiểu hiển thị cho bản đồ.</description></item><item><title>4.9 Điểm đánh dấu</title><link>https://help.gotrack365.com/vi/platform/map/poi-marker/</link><pubDate>Tue, 05 Jul 2022 16:11:06 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/poi-marker/</guid><description>Điểm đánh dấu #
 Muốn xem thông tin điểm đánh dấu làm như sau:
 Bước 1: Click vào để xem danh sách Điểm đánh dấu. Bước 2: Xem danh sách điểm đánh dấu. Có thể để ẩn / hiện một hoặc nhiều điểm đánh dấu trên bản đồ. 1. Thêm mới #
-Bước 1: Click vào Thêm mới Bước 2: Tên: Nhập tên điểm đánh dấu.</description></item></channel></rss>
+Bước 1: Click vào Thêm mới Bước 2: Tên: Nhập tên điểm đánh dấu.</description></item><item><title>4.10 Trợ giúp</title><link>https://help.gotrack365.com/vi/platform/map/support/</link><pubDate>Wed, 06 Jul 2022 14:06:58 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/map/support/</guid><description>Trợ giúp #
+1. Ticket #
+Muốn gửi một yêu cầu thì làm như sau :
+Bước 1: Click vào Trợ giúp &amp;gt; Ticket Bước 2: Xuất hiện hộp thoại : Phòng ban: Chọn phòng ban muốn gửi yêu cầu đến. Tiêu đề: Điền rõ tiêu đề cần yêu cầu. Điện thoại: Điền SĐT để đội hỗ trợ tiện liên hệ. Email: Điền email để đội hỗ trợ tiện liên hệ.</description></item></channel></rss>
