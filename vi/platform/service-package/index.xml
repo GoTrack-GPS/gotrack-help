@@ -4,13 +4,7 @@ Là đơn vị sử dụng cho các hoạt động cung cấp, duy trì các d�
 Mỗi tài khoản được cấp ví chứa số Điểm mà tài khoản đó sở hữu.
 Thiết bị #
   
-Là các thiết bị phần cứng kết nối với nền tảng GoTrack để quản lý, giám sát, theo dõi.</description></item><item><title>11.2 Các loại gói dịch vụ</title><link>https://help.gotrack365.com/vi/platform/service-package/packages/</link><pubDate>Wed, 20 Apr 2022 17:09:26 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/service-package/packages/</guid><description>Gói dịch vụ GPS #
-Tên gói Mô tả Bike-S3-D12 Quản lý, giám sát xe máy
-Tắt/mở máy từ xa qua app
-Lưu trữ hành trình 3 tháng Car-S3-D13 Quản lý, giám sát ô tô, đáp ứng QCVN31, ND10
-Lưu trữ hành trình 12 tháng
-Truyền dữ liệu TCDB miễn phí Gói dịch vụ Camera #
-Tên gói Mô tả Camera Basic-S3-D12 Giám sát, xem lại ảnh đáp ứng ND10</description></item><item><title>11.3 Giao dịch Điểm</title><link>https://help.gotrack365.com/vi/platform/service-package/transaction-point/</link><pubDate>Wed, 20 Apr 2022 17:34:20 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/service-package/transaction-point/</guid><description>Thêm mới Điểm #
+Là các thiết bị phần cứng kết nối với nền tảng GoTrack để quản lý, giám sát, theo dõi.</description></item><item><title>11.3 Giao dịch Điểm</title><link>https://help.gotrack365.com/vi/platform/service-package/transaction-point/</link><pubDate>Wed, 20 Apr 2022 17:34:20 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/service-package/transaction-point/</guid><description>Thêm mới Điểm #
 Giao dịch này thực hiện việc thêm mới Điểm vào Platform.
 ❗
 Chỉ tài khoản có quyền mới thực hiện được giao dịch này.
@@ -18,7 +12,13 @@ Bán / Chuyển Điểm #
 Giao dịch này thực hiện việc Bán / Chuyển Điểm từ tài khoản này sang tài khoản khác.
 Các bước thực hiện như sau:
 Vào trang Kinh Doanh Chọn tab Điểm Nhấn vào nút Chuyển | Bán Nhập thông tin giao dịch trên Bảng thông tin giao dịch Nhấn nút Lưu thay đổi để thực hiện
-❗ Một số lưu ý:</description></item><item><title>11.4 Giao dịch GPS</title><link>https://help.gotrack365.com/vi/platform/service-package/transaction-device/</link><pubDate>Wed, 20 Apr 2022 17:34:33 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/service-package/transaction-device/</guid><description>Thêm mới Thiết bị #
+❗ Một số lưu ý:</description></item><item><title>11.2 Các loại gói dịch vụ</title><link>https://help.gotrack365.com/vi/platform/service-package/packages/</link><pubDate>Wed, 20 Apr 2022 17:09:26 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/service-package/packages/</guid><description>Gói dịch vụ GPS #
+Tên gói Mô tả Bike-S3-D12 Quản lý, giám sát xe máy
+Tắt/mở máy từ xa qua app
+Lưu trữ hành trình 3 tháng Car-S3-D13 Quản lý, giám sát ô tô, đáp ứng QCVN31, ND10
+Lưu trữ hành trình 12 tháng
+Truyền dữ liệu TCDB miễn phí Gói dịch vụ Camera #
+Tên gói Mô tả Camera Basic-S3-D12 Giám sát, xem lại ảnh đáp ứng ND10</description></item><item><title>11.4 Giao dịch GPS</title><link>https://help.gotrack365.com/vi/platform/service-package/transaction-device/</link><pubDate>Wed, 20 Apr 2022 17:34:33 +0700</pubDate><guid>https://help.gotrack365.com/vi/platform/service-package/transaction-device/</guid><description>Thêm mới Thiết bị #
 Là giao dịch thêm mới thiết bị vào Platform.
 Hiện tại có 3 loại thêm mới như bảng sau:
 Loại Mô tả Tự động 1 năm Trừ điểm ngay khi thêm theo loại Gói chọn
