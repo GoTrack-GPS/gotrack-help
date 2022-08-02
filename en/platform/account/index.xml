@@ -1,3 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2. Account on</title><link>https://help.gotrack365.com/en/platform/account/</link><description>Recent content in 2. Account on</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Fri, 08 Apr 2022 11:26:32 +0700</lastBuildDate><atom:link href="https://help.gotrack365.com/en/platform/account/index.xml" rel="self" type="application/rss+xml"/><item><title>2.1 Overview</title><link>https://help.gotrack365.com/en/platform/account/overview/</link><pubDate>Fri, 08 Apr 2022 11:29:10 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/overview/</guid><description>Account #
 Account Platform access is granted to the user upon registration to use the GoTrack GPS monitoring platform. To operate on Platfrom, users need to log in to the system with the provided username and password. Please see login instructions here.</description></item><item><title>2.2 Introduction</title><link>https://help.gotrack365.com/en/platform/account/login/</link><pubDate>Fri, 08 Apr 2022 11:29:10 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/login/</guid><description>Login Instructions #
-User accesses the web at address : https://gps.gotrack.vn</description></item><item><title>2.3 Forgot Password</title><link>https://help.gotrack365.com/en/platform/account/forgot-password/</link><pubDate>Tue, 21 Jun 2022 08:50:19 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/forgot-password/</guid><description>Forgot Password #</description></item><item><title>2.4 Account Management</title><link>https://help.gotrack365.com/en/platform/account/account-management/</link><pubDate>Tue, 21 Jun 2022 10:42:43 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/account-management/</guid><description/></item><item><title>2.5 Account Tree</title><link>https://help.gotrack365.com/en/platform/account/account-tree/</link><pubDate>Wed, 22 Jun 2022 08:36:27 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/account-tree/</guid><description/></item><item><title>2.6 Account Auxilia</title><link>https://help.gotrack365.com/en/platform/account/account-alias/</link><pubDate>Wed, 22 Jun 2022 14:09:31 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/account-alias/</guid><description/></item></channel></rss>
+User accesses the web at address : https://gps.gotrack.vn
+Step 1: Select the language to use. Step 2: Enter account, password Account: Please enter the registered account name. Password: Use a strong and unsigned password. Then click Sign in to complete the operation.</description></item><item><title>2.3 Forgot Password</title><link>https://help.gotrack365.com/en/platform/account/forgot-password/</link><pubDate>Tue, 21 Jun 2022 08:50:19 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/forgot-password/</guid><description>Forgot Password #
+In case the user forgot password, follow these steps:
+Step 1 #
+Click Forgot Password ? on the login page.
+Enter your Email account and click Submit. Display the message: Successful. Step 2 #
+Go to Main / Inbox, find the email sent by the system, click on Reset Password or the link below to change your password. Step 3 #
+Reset the new password and click Send to enter the system homepage.</description></item><item><title>2.4 Account Management</title><link>https://help.gotrack365.com/en/platform/account/account-management/</link><pubDate>Tue, 21 Jun 2022 10:42:43 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/account-management/</guid><description>Account Management #
+After creating an account, users can search / add / edit / change password / delete account creation.
+Click on Manage &amp;gt; Account to perform functions in account management.
+Access rights: This feature allows service providers, agents to grant access to their accounts to multiple employees/customers at the same time. Furthermore, if you select only the necessary devices for a user, they will only be able to track them.</description></item><item><title>2.5 Account Tree</title><link>https://help.gotrack365.com/en/platform/account/account-tree/</link><pubDate>Wed, 22 Jun 2022 08:36:27 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/account-tree/</guid><description>Account Tree #
+1. Icon #
+The first account, on top is the parent / superior account.
+In the parent / superior account is the distributor account.
+Regular account.
+❗
+Note : This screen is only available when you are logged into your account as a distributor.
+2. Display #
+Example: developer (1/12). In there:
+developer : Login account name.
+1 : The device number is in the developer account (itself).</description></item><item><title>2.6 Account Auxilia</title><link>https://help.gotrack365.com/en/platform/account/account-alias/</link><pubDate>Wed, 22 Jun 2022 14:09:31 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/account/account-alias/</guid><description>Account Auxilia #
+1. Role alias #
+Sub-accounts are created from the main account and linked to the main account.
+Sub-accounts have many different functions and can vary considerably depending on where they are and what their goals are.
+To grant permission for a sub-account to perform any function, do the following:
+Go to Manage &amp;gt; Alias &amp;gt; Role alias. If there are many child accounts, click on the account tree, select the account you want to create additional roles for.</description></item></channel></rss>
