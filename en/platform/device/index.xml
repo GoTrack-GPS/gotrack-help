@@ -6,16 +6,27 @@ Click on the account you want to view.
 Will display device information (if the account has a device) and associated functions.
 1. Search #
 You can search by the following criteria:</description></item><item><title>3.3 Add Device</title><link>https://help.gotrack365.com/en/platform/device/add-device/</link><pubDate>Sat, 25 Jun 2022 16:17:11 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/device/add-device/</guid><description>Add device #
-To start Add and configure the device, the user selects Manage &amp;gt; Device
+To start Add and configure the device, the user selects Manage &amp;gt; Devices
 Step 1 #
 Click on Add device the screen will display as follows: Step 2 #
 A dialog box appears, fill in the information in the dialog box, including:
 Source account (detail here):
 Download templates: Clicking will download the file with sample data in it.</description></item><item><title>3.4 Edit Device</title><link>https://help.gotrack365.com/en/platform/device/edit-device/</link><pubDate>Sat, 25 Jun 2022 16:18:10 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/device/edit-device/</guid><description>Edit Device #
-To start Edit and configure the device, the user selects Manage &amp;gt; Device
+To start Edit and configure the device, the user selects Manage &amp;gt; Devices
 Click on Edit of that device, the following dialog box will appear:
 1. Basic #
 Device information:
 IMEI: Device identification number. (No editing allowed).
 Account: Your username/username. (No editing allowed).
-Icon: Click on the box right below to select the icon of the vehicle/vehicle in which you install the device.</description></item><item><title>3.5 Delete Device</title><link>https://help.gotrack365.com/en/platform/device/delete-device/</link><pubDate>Sat, 25 Jun 2022 16:17:57 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/device/delete-device/</guid><description/></item><item><title>3.6 Equipment Management</title><link>https://help.gotrack365.com/en/platform/device/equipment-management/</link><pubDate>Sat, 25 Jun 2022 16:18:28 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/device/equipment-management/</guid><description/></item></channel></rss>
+Icon: Click on the box right below to select the icon of the vehicle/vehicle in which you install the device.</description></item><item><title>3.5 Delete Device</title><link>https://help.gotrack365.com/en/platform/device/delete-device/</link><pubDate>Sat, 25 Jun 2022 16:17:57 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/device/delete-device/</guid><description>Delete device #
+To start Delete and configure the device, the user selects Manage &amp;gt; Devices
+Way 1 #
+Step 1 : CLick on &amp;gt; Delete of that device, a dialog box as shown below will appear. Step 2 : If: Select Confirm: Will erase the device. Select Cancel: Will cancel the delete operation. Way 2 #
+If you want to delete only the device or delete both the device and the account, do the following:</description></item><item><title>3.6 Equipment Management</title><link>https://help.gotrack365.com/en/platform/device/equipment-management/</link><pubDate>Sat, 25 Jun 2022 16:18:28 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/device/equipment-management/</guid><description>Equipment Management #
+To start Equipment Management and configure the device, the user selects Manage &amp;gt; Devices
+1. Move / Sell #
+To transfer/assign the device to another account, there are 3 ways:
+Way 1
+Step 1: Tick the device to be Move/Sell.
+Step 2: Choose Move / Sell.
+Step 3: A dialog box appears. Select Destination account to transfer/sell the device there.</description></item></channel></rss>
