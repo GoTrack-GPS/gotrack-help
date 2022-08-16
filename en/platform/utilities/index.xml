@@ -7,4 +7,13 @@ Step 1: Click on Utilities &amp;gt; Multi - tracking by geofences Step 2: Tick o
 To create a new geofence click on .</description></item><item><title>7.3 Tracking Landmarks</title><link>https://help.gotrack365.com/en/platform/utilities/tracking-landmarks/</link><pubDate>Wed, 13 Jul 2022 15:09:58 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/utilities/tracking-landmarks/</guid><description>Tracking Landmarks #
 To track multiple points do the following:
 Step 1: Click on Utilities &amp;gt; Multi - tracking by landmarks Step 2: Tick on choose: 1: Keep track of all scores. 2: Track 1 or more points. 3: Results show points on the map. 1. Create new #
-To create a new point click on . A dialog box appears, for details, refer to section 1.</description></item><item><title>7.4 Toll Fee</title><link>https://help.gotrack365.com/en/platform/utilities/toll-fee/</link><pubDate>Wed, 13 Jul 2022 15:10:12 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/utilities/toll-fee/</guid><description/></item><item><title>7.5 Map Api Key</title><link>https://help.gotrack365.com/en/platform/utilities/map-api-key/</link><pubDate>Wed, 13 Jul 2022 15:12:36 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/utilities/map-api-key/</guid><description/></item></channel></rss>
+To create a new point click on . A dialog box appears, for details, refer to section 1.</description></item><item><title>7.4 Toll Fee</title><link>https://help.gotrack365.com/en/platform/utilities/toll-fee/</link><pubDate>Wed, 13 Jul 2022 15:10:12 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/utilities/toll-fee/</guid><description>Toll Fee #
+Toll Fee can be understood as finding the path from the starting point to the end point. How many toll booths will I go to where I go.
+Each station will have a different fee according to the type of vehicle.
+The displayed information may not be full of toll stations, only for reference for users to estimate the toll and choose the route of the vehicle.</description></item><item><title>7.5 Map Api Key</title><link>https://help.gotrack365.com/en/platform/utilities/map-api-key/</link><pubDate>Wed, 13 Jul 2022 15:12:36 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/utilities/map-api-key/</guid><description>❗
+Only authorized accounts can access this section !
+Map Api Key #
+Map Api Key: A utility that provides address data for the account&amp;rsquo;s map page.
+To view MAP API in your account do the following:
+Click on Utilities &amp;gt; Map API Key 1. Create Map Api Key #
+Step 1: Click Create Map Api Key.</description></item></channel></rss>
