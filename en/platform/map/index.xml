@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>4. Map on</title><link>https://help.gotrack365.com/en/platform/map/</link><description>Recent content in 4. Map on</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Fri, 08 Apr 2022 11:37:30 +0700</lastBuildDate><atom:link href="https://help.gotrack365.com/en/platform/map/index.xml" rel="self" type="application/rss+xml"/><item><title>4.1 Introduction</title><link>https://help.gotrack365.com/en/platform/map/introduction/</link><pubDate>Fri, 08 Apr 2022 11:37:40 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/introduction/</guid><description>General main interface #
-1. Main menu.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>4. Map on</title><link>https://help.gotrack365.com/en/platform/map/</link><description>Recent content in 4. Map on</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Fri, 08 Apr 2022 11:37:30 +0700</lastBuildDate><atom:link href="https://help.gotrack365.com/en/platform/map/index.xml" rel="self" type="application/rss+xml"/><item><title>4.1 Introduction</title><link>https://help.gotrack365.com/en/platform/map/introduction/</link><pubDate>Fri, 08 Apr 2022 11:37:40 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/introduction/</guid><description>General main interface # 1. Main menu.
 2. Account tree.
 3. List of devices.
 4. Map
@@ -7,45 +6,23 @@
 6. Extension tool.
 7. Map widget.
 8. Help.
-1. Main menu #
-Click on Map on the menu. The interface is displayed as shown below : 2.</description></item><item><title>4.2 General Device Monitoring</title><link>https://help.gotrack365.com/en/platform/map/general-device-monitoring/</link><pubDate>Sat, 25 Jun 2022 16:54:54 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/general-device-monitoring/</guid><description>General Device Monitoring #
-1. Search #
-1.1. Searchable by: #
-Device name
+1. Main menu # Click on Map on the menu. The interface is displayed as shown below : 2.</description></item><item><title>4.2 General Device Monitoring</title><link>https://help.gotrack365.com/en/platform/map/general-device-monitoring/</link><pubDate>Sat, 25 Jun 2022 16:54:54 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/general-device-monitoring/</guid><description>General Device Monitoring # 1. Search # 1.1. Searchable by: # Device name
 IMEI
 Device group
-1.2. Color statistics show the vehicle status of the device #
-Users who want to know the most specific device status can search by tabs: All, Stop, Run, GPS Weak, Lost Signal.
+1.2. Color statistics show the vehicle status of the device # Users who want to know the most specific device status can search by tabs: All, Stop, Run, GPS Weak, Lost Signal.
 Hide/show - all devices/each device on the map.
-Add/Remove that device to/out favorites list.</description></item><item><title>4.3 Detailed Monitoring</title><link>https://help.gotrack365.com/en/platform/map/detailed-monitoring/</link><pubDate>Sat, 25 Jun 2022 16:55:08 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/detailed-monitoring/</guid><description>Detailed Monitoring #
-1. Favorite / Disfavour #
-Favorite: To find quickly and conveniently track vehicle details that need attention and need to be handled.
+Add/Remove that device to/out favorites list.</description></item><item><title>4.3 Detailed Monitoring</title><link>https://help.gotrack365.com/en/platform/map/detailed-monitoring/</link><pubDate>Sat, 25 Jun 2022 16:55:08 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/detailed-monitoring/</guid><description>Detailed Monitoring # 1. Favorite / Disfavour # Favorite: To find quickly and conveniently track vehicle details that need attention and need to be handled.
 Step 1: Click on the device.
-Step 2: Click on in the device info box. The icon will change to . Disfavour: If you have finished processing or do not prioritize the vehicle, you can un-favor it.</description></item><item><title>4.4 Map Tools</title><link>https://help.gotrack365.com/en/platform/map/map-tools/</link><pubDate>Sat, 25 Jun 2022 16:55:23 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/map-tools/</guid><description>Map Tools #
-1. Map setting #
-Step 1: Enter .
+Step 2: Click on in the device info box. The icon will change to . Disfavour: If you have finished processing or do not prioritize the vehicle, you can un-favor it.</description></item><item><title>4.4 Map Tools</title><link>https://help.gotrack365.com/en/platform/map/map-tools/</link><pubDate>Sat, 25 Jun 2022 16:55:23 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/map-tools/</guid><description>Map Tools # 1. Map setting # Step 1: Enter .
 Step 2 : The dialog box appears. Settings, enable/disable information as you like.
-Map type: Select the map interface so that it is easy to see. Brightness (100%): Choose a map brightness that is easy to see. Show cluster: Merge vehicles into a cluster depending on the zoom level of the map.</description></item><item><title>4.5 Map Widget</title><link>https://help.gotrack365.com/en/platform/map/map-widget/</link><pubDate>Sat, 25 Jun 2022 16:55:45 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/map-widget/</guid><description>Map Widget #
-1. Car color #
-The color of the vehicle corresponds to the states in the legend .
+Map type: Select the map interface so that it is easy to see. Brightness (100%): Choose a map brightness that is easy to see. Show cluster: Merge vehicles into a cluster depending on the zoom level of the map.</description></item><item><title>4.5 Map Widget</title><link>https://help.gotrack365.com/en/platform/map/map-widget/</link><pubDate>Sat, 25 Jun 2022 16:55:45 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/map-widget/</guid><description>Map Widget # 1. Car color # The color of the vehicle corresponds to the states in the legend .
 Click to show/hide color information on the map.
-2. Status color convention #
-: Car is running. : Car is stopping. : The car is stopped but the engine is still running. : GPS weak. : GPRS weak.</description></item><item><title>4.6 Route History</title><link>https://help.gotrack365.com/en/platform/map/route-history/</link><pubDate>Tue, 05 Jul 2022 16:09:30 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/route-history/</guid><description>Route History #
-To view the route history do the following:
-Step 1: Click on to view your device&amp;rsquo;s route history. Step 2: View your device&amp;rsquo;s route history. Can be to hide/show one or more route histories on the map. 1. Search #
-To search the route history do the following:
-1: Click on -&amp;gt; enter the route name and press Enter.</description></item><item><title>4.7 Corridor</title><link>https://help.gotrack365.com/en/platform/map/corridor/</link><pubDate>Tue, 05 Jul 2022 16:09:57 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/corridor/</guid><description>Corridor #
-To view corridor information do the following:
-Step 1: Click on to see a list of corridor. Step 2: See the Corridor list. Can be to hide/show one or more corridors on the map. 1. Create new #
-To create a new corridor, do the following:
+2. Status color convention # : Car is running. : Car is stopping. : The car is stopped but the engine is still running. : GPS weak. : GPRS weak.</description></item><item><title>4.6 Route History</title><link>https://help.gotrack365.com/en/platform/map/route-history/</link><pubDate>Tue, 05 Jul 2022 16:09:30 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/route-history/</guid><description>Route History # To view the route history do the following:
+Step 1: Click on to view your device&amp;rsquo;s route history. Step 2: View your device&amp;rsquo;s route history. Can be to hide/show one or more route histories on the map. 1. Search # To search the route history do the following:
+1: Click on -&amp;gt; enter the route name and press Enter.</description></item><item><title>4.7 Corridor</title><link>https://help.gotrack365.com/en/platform/map/corridor/</link><pubDate>Tue, 05 Jul 2022 16:09:57 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/corridor/</guid><description>Corridor # To view corridor information do the following:
+Step 1: Click on to see a list of corridor. Step 2: See the Corridor list. Can be to hide/show one or more corridors on the map. 1. Create new # To create a new corridor, do the following:
 Step 1 : Click on Create New.
-Step 2 : Add corridor screen appears:</description></item><item><title>4.8 Geofence</title><link>https://help.gotrack365.com/en/platform/map/region/</link><pubDate>Tue, 05 Jul 2022 16:10:28 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/region/</guid><description>Geofence #
-To view area information do the following:
-Step 1: Click on to see a list of Geofence. Step 2: See the list of geofence. Can be to hide/show one or more geofence on the map. 1. Create new #
-Step 1: Click on Create new. Step 2: : Select the display type for the map.</description></item><item><title>4.9 Landmark</title><link>https://help.gotrack365.com/en/platform/map/poi-marker/</link><pubDate>Tue, 05 Jul 2022 16:11:06 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/poi-marker/</guid><description>Landmark #
-To view marker information do the following:
-Step 1: Click on to see a list of Landmark. Step 2: See the list of landmark. Can be to hide/show one or more landmark on the map. 1. Create new #
-Step 1: Click on Create new Step 2: Name: Enter the landmark name. Type : Select the appropriate landmark type.</description></item><item><title>4.10 Support</title><link>https://help.gotrack365.com/en/platform/map/support/</link><pubDate>Wed, 06 Jul 2022 14:06:58 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/support/</guid><description>Support #
-1. Ticket #
-To send a request, do the following:
+Step 2 : Add corridor screen appears:</description></item><item><title>4.8 Geofence</title><link>https://help.gotrack365.com/en/platform/map/region/</link><pubDate>Tue, 05 Jul 2022 16:10:28 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/region/</guid><description>Geofence # To view area information do the following:
+Step 1: Click on to see a list of Geofence. Step 2: See the list of geofence. Can be to hide/show one or more geofence on the map. 1. Create new # Step 1: Click on Create new. Step 2: : Select the display type for the map.</description></item><item><title>4.9 Landmark</title><link>https://help.gotrack365.com/en/platform/map/poi-marker/</link><pubDate>Tue, 05 Jul 2022 16:11:06 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/poi-marker/</guid><description>Landmark # To view marker information do the following:
+Step 1: Click on to see a list of Landmark. Step 2: See the list of landmark. Can be to hide/show one or more landmark on the map. 1. Create new # Step 1: Click on Create new Step 2: Name: Enter the landmark name. Type : Select the appropriate landmark type.</description></item><item><title>4.10 Support</title><link>https://help.gotrack365.com/en/platform/map/support/</link><pubDate>Wed, 06 Jul 2022 14:06:58 +0700</pubDate><guid>https://help.gotrack365.com/en/platform/map/support/</guid><description>Support # 1. Ticket # To send a request, do the following:
 Step 1: Click on Support &amp;gt; Ticket Step 2: A dialog box appears: Department: Chọn phòng ban muốn gửi yêu cầu đến. Title: Fill in the required title. Phone number: Enter your phone number so that the support team can easily contact you. Email: Enter your email so that the support team can easily contact you.</description></item></channel></rss>
